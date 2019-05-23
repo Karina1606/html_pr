@@ -120,6 +120,19 @@ color: #000;
     margin: 0 0 5px 0;
 }
 
+footer {
+    background: #000;
+    color: cadetblue;
+    text-align: center;
+    padding: 15px;
+}
+
+footer a {
+    color: aqua;
+    text-decoration: none;
+    font-size: 26px;
+}
+
 @media(max-width: 1060px) {
    #content-wrap {
        margin: 0 15px;
